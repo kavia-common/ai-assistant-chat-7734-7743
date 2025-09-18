@@ -154,7 +154,7 @@ function App() {
                       <span>.</span><span>.</span><span>.</span>
                     </span>
                   ) : (
-                    'Ask AI'
+                    'Enter'
                   )}
                 </button>
               </div>
